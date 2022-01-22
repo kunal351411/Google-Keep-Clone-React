@@ -1,3 +1,10 @@
+# Google-Keep-Clone
+
+Can be visited at -> https://google-keep-clone-kv.netlify.app/
+
+## Description 
+Created a Google Keep like app in React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
